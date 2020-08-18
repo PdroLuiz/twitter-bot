@@ -139,4 +139,4 @@ cython_debug/
 
 debug.log
 
-secret.json
+app/config/secret.json
