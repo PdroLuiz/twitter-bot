@@ -1,6 +1,6 @@
 Simple twitter bot
 
-Change the credentials in the config/secret.json file 
+Change the credentials in the config/secret.json file  (do not commit the changes in this file!!!)
 to login in your account
 
 feel free to study and change the code 
